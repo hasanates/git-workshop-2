@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "fist line is addded here"
+=======
+"second file first line is added and added"
+>>>>>>> new-feature-2
